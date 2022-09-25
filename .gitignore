@@ -1,0 +1,12 @@
+# The following will ignore any .class files
+*.class
+
+# The following few files ignore .xml files that will cause issues
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/tasks.xml
+
+*.log
+build/
+target/

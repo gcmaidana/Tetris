@@ -1,0 +1,6 @@
+JavaFX Version ("bundled 213.6777.52" - comes with IntelliJ, check in the installed plugins)
+IntelliJ Version 2021.3.2
+Java 17
+Git
+GitHub Desktop and/or Git Bash (depending on what the team member wants to use)
+GitLab for Repository
