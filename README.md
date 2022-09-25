@@ -1,5 +1,5 @@
 # Tetris
-Tetris is a game we re-created for my Software Maintenance and Reengineering class. The game we choose to re-create was called Kentris (Tetris was not listed out of all the games we could have chosen), which is why there is a source code file for Kentris in the project files. We were allowed to re-create Tetris rather than Ketris because it would have been too much work for the semester since Kentris has multiplayer functionality. We used JavaFX to create Tetris.
+Tetris is a game we re-created for my Software Maintenance and Reengineering class. The game we choose to re-create was called Kentris (Tetris was not listed out of all the games we could have chosen), which is why there is a source code file for Kentris in the project files. We were allowed to re-create Tetris rather than Kentris because it would have been too much work for the semester since Kentris has multiplayer functionality. We used JavaFX to create Tetris.
 
 # Our team: Team 05
 
